@@ -1,0 +1,3 @@
+module EmployeeModule
+  VERSION = "0.0.1"
+end
